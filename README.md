@@ -10,3 +10,5 @@
 - [development-references](https://github.com/HoseungJang/development-references): 내가 듣고 읽은 개발 글 / 영상을 기록하는 레포
 
 - [storage-cover](https://github.com/HoseungJang/storage-cover): Web Storage를 한 단계 안전하게 쓸 수 있게 만들어주는 프로젝트
+
+- [storage-typed](https://github.com/HoseungJang/storage-typed): Web Storage API를 type-safe하게 사용할 수 있게 만들어주는 프로젝트
