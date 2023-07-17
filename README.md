@@ -6,9 +6,13 @@ My open sources map
 
 ## Front-end
 
+### UI
+
 - [flickable-scroll](https://github.com/HoseungJang/flickable-scroll)
 
   - A web scroller with flicking guesture
+
+### Browser
 
 - [storage-cover](https://github.com/HoseungJang/storage-cover)
 
@@ -20,6 +24,8 @@ My open sources map
 
 ## Back-end
 
+### OpenAPI
+
 - [oas-api-client](https://github.com/HoseungJang/oas-api-client)
 
   - API client generator based on OpenAPI Specification
@@ -27,6 +33,8 @@ My open sources map
 - [request-typer](https://github.com/HoseungJang/request-typer)
 
   - Declare a schema of HTTP Request and Response, and then create type vaildator and OpenAPI Specification object
+
+### Framework
 
 - [typed-express](https://github.com/HoseungJang/typed-express)
 

@@ -6,9 +6,13 @@
 
 ## Front-end
 
+### UI
+
 - [flickable-scroll](https://github.com/HoseungJang/flickable-scroll)
 
   - Flicking 제스쳐를 지원하는 웹 스크롤러
+
+### Browser
 
 - [storage-cover](https://github.com/HoseungJang/storage-cover)
 
@@ -20,6 +24,8 @@
 
 ## Back-end
 
+### OpenAPI
+
 - [oas-api-client](https://github.com/HoseungJang/oas-api-client)
 
   - OpenAPI Specification 기반으로 API client를 생성해주는 도구
@@ -27,6 +33,8 @@
 - [request-typer](https://github.com/HoseungJang/request-typer)
 
   - HTTP 요청, 응답 스키마를 정의하면 type vaildator와 openAPI Specification object를 만들어주는 도구
+
+### Framework
 
 - [typed-express](https://github.com/HoseungJang/typed-express)
 
