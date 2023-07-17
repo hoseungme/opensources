@@ -6,6 +6,10 @@
 
 ## Front-end
 
+- [flickable-scroll](https://github.com/HoseungJang/flickable-scroll)
+
+  - Flicking 제스쳐를 지원하는 웹 스크롤러
+
 - [storage-cover](https://github.com/HoseungJang/storage-cover)
 
   - Web Storage를 안전하게 사용할 수 있게 해주는 도구

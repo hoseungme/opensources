@@ -6,6 +6,10 @@ My open sources map
 
 ## Front-end
 
+- [flickable-scroll](https://github.com/HoseungJang/flickable-scroll)
+
+  - A web scroller with flicking guesture
+
 - [storage-cover](https://github.com/HoseungJang/storage-cover)
 
   - Web storage wrapper for continuous web application in all browsers
