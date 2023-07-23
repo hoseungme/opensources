@@ -12,6 +12,10 @@
 
   - Flicking 제스쳐를 지원하는 웹 스크롤러
 
+- [scratchable](https://github.com/HoseungJang/scratchable)
+
+  - HTML Canvas를 사용해 컨텐츠 위에 스크래치 카드를 렌더링해주는 도구
+
 ### Browser
 
 - [storage-cover](https://github.com/HoseungJang/storage-cover)
