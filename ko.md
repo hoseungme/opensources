@@ -16,6 +16,12 @@
 
   - HTML Canvas를 사용해 컨텐츠 위에 스크래치 카드를 렌더링해주는 도구
 
+- [toss/slash](https://github.com/toss/slash)
+
+  - 웹 서비스 개발을 높은 퀄리티로 생산성 있게 하기 위한 라이브러리들의 모음
+  - `slash`는 제가 재직중인 회사 [토스](https://toss.im)의 오픈소스로, 저는 메인테이너 중 한명으로 활동하고 있습니다.
+  - 제가 기여한 PR과 이슈 목록은 [여기서](https://github.com/toss/slash/issues?q=involves%3AHoseungJang) 확인하실 수 있습니다.
+
 ### Browser
 
 - [storage-cover](https://github.com/HoseungJang/storage-cover)
