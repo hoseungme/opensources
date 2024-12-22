@@ -16,6 +16,10 @@ My open sources map
 
   - A scratch card renderer using HTML Canvas
 
+- [animate-linear-gradient](https://github.com/hoseungme/animate-linear-gradient)
+
+  - An animator between two linear-gradient background css
+
 - [toss/slash](https://github.com/toss/slash)
 
   - A collection of TypeScript/JavaScript packages to build high-quality web services.
