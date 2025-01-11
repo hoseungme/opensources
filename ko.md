@@ -16,9 +16,9 @@
 
   - HTML Canvas를 사용해 컨텐츠 위에 스크래치 카드를 렌더링해주는 도구
 
-- [animate-linear-gradient](https://github.com/hoseungme/animate-linear-gradient)
+- [linear-gradient-element](https://github.com/hoseungme/linear-gradient-element)
 
-  - 두 linear-gradient background 사이에 애니메이션을 적용해주는 도구
+  - linear-gradient css background에 transition animation, interpolation을 적용해주는 도구
 
 - [toss/slash](https://github.com/toss/slash)
 
