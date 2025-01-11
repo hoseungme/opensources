@@ -16,9 +16,9 @@ My open sources map
 
   - A scratch card renderer using HTML Canvas
 
-- [animate-linear-gradient](https://github.com/hoseungme/animate-linear-gradient)
+- [linear-gradient-element](https://github.com/hoseungme/linear-gradient-element)
 
-  - An animator between two linear-gradient background css
+  - linear-gradient css background with transition animation, interpolation
 
 - [toss/slash](https://github.com/toss/slash)
 
